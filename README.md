@@ -11,20 +11,33 @@
 
 # 【第三方搜索工具】
 
-首先介绍几款Telegram常用的搜索工具，因为电报官方全局搜索不支持中文，那么就很难找到我们想要的搜索结果，所以下面几个第三方搜索工具大家一定要用到<b>（输入关键词即可搜索更多资源，相当于谷歌、百度一样）</b>
+首先介绍几款Telegram常用的搜索工具，因为电报官方全局搜索不支持中文，那么就很难找到我们想要的搜索结果，所以下面几个第三方搜索工具大家一定要用到,<b>（输入关键词即可搜索更多资源，相当于谷歌、百度一样）</b>因每款搜索引擎收录的结果不同，如未找到想要的结果，可查看另一款，有了这些搜索工具，就不愁在电报上找到想要的资源啦。
 
-| ![Image text](https://github.com/XHooki/Telegram-/blob/44102e92f1091da7444b6c4252f15f9ad509d0ef/%E6%96%87%E4%BB%B6/%E6%9E%81%E6%90%9Cpicture.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSO%E5%9B%BE%E7%89%87.png) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/Jiso.jpg)
-| :---: | :---:| :---: |
-| <a href="https://t.me/TGzhst">🔍极搜中文搜索</a> | <a href="https://t.me/TGzhst">🔍SOSO中文搜索</a> | <a href="https://t.me/TGzhst">🔍Jiso中文搜索</a> |
+| ![Image text](https://github.com/XHooki/Telegram-/blob/44102e92f1091da7444b6c4252f15f9ad509d0ef/%E6%96%87%E4%BB%B6/%E6%9E%81%E6%90%9Cpicture.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSO%E5%9B%BE%E7%89%87.png) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/Jiso.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/aiso.jpg) |
+| :---: | :---:| :---: | :---: |
+| <a href="https://t.me/TGzhst">🔍极搜中文搜索</a> | <a href="https://t.me/SOSOwuyan">🔍SOSO中文搜索</a> | <a href="https://t.me/jisowuyan">🔍Jiso中文搜索</a> | <a href="https://t.me/jisowuyan">🔍Aiso中文搜索</a>
+
+# 【常用机器人🤖】
+
+<b>开通Telegram会员/兑换TRX/租用转账能量/一体机器人</b>（多功能机器人，并且可以实时查看U价）：https://t.me/XHzizhubot
+
+<b>克隆属于自己的双向私聊机器人</b>（免费制作双向私聊机器人，防止被双向）：
+
+<b>监控钱包余额动账机器人</b>（USDT余额变化会自动发送消息）：https://t.me/chau
+
+<b>免费关键词监控机器人</b>（有用户发送关键词会转达给你）：https://t.me/ZoomEyesBot
+
+<b>群管理机器人</b>：https://t.me/smart_vbot
+
+<b>自动清理群组内已销户机器人</b>：https://t.me/RemoveDeletedAccountsBot
+
+<b>翻译消息机器人</b>：https://t.me/fanyi_bot
+
+<b>GIF和贴纸下载机器人</b>：https://t.me/Sticker2GIFBot
+
+<b>emoji制作机器人</b>：https://t.me/TgEmojiBot
 
 
-| CCTV6电影/影视频道 |
-| ------------------ |
-：https://t.me/CCTV6DY （各类电影/影视应有尽有）
-
-3.Telegram中文社区：（关于电报各种设置、解除无法加入频道、如何解封等教程）
-
-4.
 | Center-aligned | Right-aligned |
 |     :---:      |          ---: |
 | git status     | git status    |
