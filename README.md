@@ -43,10 +43,22 @@
 
 <b>emoji制作机器人</b>：https://t.me/TgEmojiBot
 
-# 【常用群组】
+# 【常用群组👥】
 
-<b>Telegram中文社区</b>(各种电报教程）：https://t.me/ZXP33969](https://t.me/chinese_thecommunity
+<b>Telegram中文社区</b>(各种电报教程）：https://t.me/chinese_thecommunity
 
-# 【常用频道】
+<b>币安官方交流群：</b>https://t.me/BinanceChinese
+
+<b>欧易官方交流群：</b>https://t.me/OKXGroup_CN
+
+# 【常用频道📢】
 
 <b>影视大全</b>(各种电影，电视剧，综艺）：https://t.me/ZXP33969
+
+<b>币安官方频道：</b>https://t.me/binance_announcements
+
+<b>欧易官方频道：</b>https://t.me/OKXAnnouncements_CN
+
+<b>吃瓜中心(各种新闻热点)：</b>https://t.me/chigua91
+
+<b>汇旺担保：</b>https://t.me/hwgq
