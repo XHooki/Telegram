@@ -21,7 +21,9 @@
 
 <b>开通Telegram会员/兑换TRX/租用转账能量/一体机器人</b>（多功能机器人，并且可以实时查看U价）：https://t.me/XHzizhubot
 
-<b>克隆属于自己的双向私聊机器人</b>（免费制作双向私聊机器人，防止被双向）：
+<b>克隆属于自己的双向私聊机器人</b>（免费制作双向私聊机器人，防止被双向）：https://t.me/SuperBuildBot
+
+<b>频道内添加按钮机器人</b>：https://t.me/chelpbot
 
 <b>监控钱包余额动账机器人</b>（USDT余额变化会自动发送消息）：https://t.me/chau
 
