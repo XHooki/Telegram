@@ -37,8 +37,10 @@
 
 <b>emoji制作机器人</b>：https://t.me/TgEmojiBot
 
+# 【常用群组】
 
-| Center-aligned | Right-aligned |
-|     :---:      |          ---: |
-| git status     | git status    |
-| git diff       | git diff      |
+<b>Telegram中文社区</b>(各种电报教程）：https://t.me/ZXP33969](https://t.me/chinese_thecommunity
+
+# 【常用频道】
+
+<b>影视大全</b>(各种电影，电视剧，综艺）：https://t.me/ZXP33969
