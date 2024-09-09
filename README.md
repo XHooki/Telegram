@@ -13,9 +13,9 @@
 
 首先介绍几款Telegram常用的搜索工具，因为电报官方全局搜索不支持中文，那么就很难找到我们想要的搜索结果，所以下面几个第三方搜索工具大家一定要用到<b>（输入关键词即可搜索更多资源，相当于谷歌、百度一样）</b>
 
-| ![Image text](https://github.com/XHooki/Telegram-/blob/44102e92f1091da7444b6c4252f15f9ad509d0ef/%E6%96%87%E4%BB%B6/%E6%9E%81%E6%90%9Cpicture.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSOpicture.jpg) | 
-| :---: | :---:|
-| <a href="https://t.me/TGzhst">🔍极搜中文搜索</a> | <a href="https://t.me/TGzhst">🔍SOSO中文搜索</a> |
+| ![Image text](https://github.com/XHooki/Telegram-/blob/44102e92f1091da7444b6c4252f15f9ad509d0ef/%E6%96%87%E4%BB%B6/%E6%9E%81%E6%90%9Cpicture.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSO%E5%9B%BE%E7%89%87.png) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSO%E5%9B%BE%E7%89%87.png)
+| :---: | :---:| :---: |
+| <a href="https://t.me/TGzhst">🔍极搜中文搜索</a> | <a href="https://t.me/TGzhst">🔍SOSO中文搜索</a> | <a href="https://t.me/TGzhst">🔍Jiso中文搜索</a> |
 
 
 | CCTV6电影/影视频道 |
