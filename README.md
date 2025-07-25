@@ -19,7 +19,7 @@
 
 | ![Image text](https://github.com/XHooki/Telegram-/blob/44102e92f1091da7444b6c4252f15f9ad509d0ef/%E6%96%87%E4%BB%B6/%E6%9E%81%E6%90%9Cpicture.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSO%E5%9B%BE%E7%89%87.png) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/Jiso.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/aiso.jpg) |
 | :---: | :---:| :---: | :---: |
-| <a href="https://t.me/TGzhst">🔍极搜中文搜索</a> | <a href="https://t.me/SOSOwuyan">🔍SOSO中文搜索</a> | <a href="https://t.me/jisowuyan">🔍Jiso中文搜索</a> | <a href="https://t.me/jisowuyan">🔍Aiso中文搜索</a>
+| <a href="https://t.me/jisou?start=a_6400021671">🔍极搜中文搜索</a> | <a href="https://t.me/soso?start=a_6400021671">🔍SOSO中文搜索</a> | <a href="https://t.me/jiso?start=a_6400021671">🔍Jiso中文搜索</a> | <a href="https://t.me/jisowuyan">🔍Aiso中文搜索</a>
 
 # 【常用机器人🤖】
 
