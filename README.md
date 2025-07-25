@@ -11,7 +11,7 @@
 
 <p align="center"><b><a href="https://t.me/XHchtBot">任何问题请联系我</a></b></p>
 
-<p align="center">2024年9月9日更新内容：新增10款机器人、新增1个频道、新增1个群组</p>
+<p align="center">2025年7月25日更新内容：新增0款机器人、新增4个频道、新增3个群组</p>
 
 # 【第三方搜索工具】
 
@@ -51,6 +51,14 @@
 
 <b>欧易官方交流群：</b>https://t.me/OKXGroup_CN
 
+<b>好旺担保：</b>https://t.me/hwdb
+
+<b>土豆担保：</b>https://t.me/tdgq
+
+<b>极搜担保：</b>https://t.me/AAOO
+
+<b>东南亚吃瓜日记（亚太）🥬：</b>https://t.me/yishi166
+
 # 【常用频道📢】
 
 <b>影视大全</b>(各种电影，电视剧，综艺）：https://t.me/ZXP33969
@@ -60,5 +68,13 @@
 <b>欧易官方频道：</b>https://t.me/OKXAnnouncements_CN
 
 <b>吃瓜中心(各种新闻热点)：</b>https://t.me/chigua91
+
+<b>吃瓜情报局：</b>https://t.me/MrGua88
+
+<b>各类游戏辅助直装外挂改文件内核端口：</b>https://t.me/xlnb191003
+
+<b>开源社区：</b>https://t.me/opencfdchannel
+
+<b>Magazine｜期刊杂志｜考公｜中文 | 网课分享：</b>https://t.me/Qikan2023
 
 <b>汇旺担保：</b>https://t.me/hwgq
