@@ -15,7 +15,7 @@
 
 # 【第三方搜索工具】
 
-首先介绍几款Telegram常用的搜索工具，因为电报官方全局搜索不支持中文，那么就很难找到我们想要的搜索结果，所以下面几个第三方搜索工具大家一定要用到,<b>（输入关键词即可搜索更多资源，相当于谷歌、百度一样）</b>因每款搜索引擎收录的结果不同，如未找到想要的结果，可查看另一款，有了这些搜索工具，就不愁在电报上找到想要的资源啦。
+首先介绍几款Telegram常用的搜索工具，因为电报官方的全局搜索非常鸡肋，大多数都精准找不到我们想要的群组，那么下面几个第三方搜索工具大家一定要用到，首先我们可以点开下面任意一款机器人，在里面输入汉化即可设置中文。<b>（输入关键词即可搜索更多资源，相当于谷歌、百度一样）</b>因每款搜索引擎收录的结果不同，如未找到想要的结果，可查看另一款，有了这些搜索工具，就不愁在电报上找到想要的资源啦。
 
 | ![Image text](https://github.com/XHooki/Telegram-/blob/44102e92f1091da7444b6c4252f15f9ad509d0ef/%E6%96%87%E4%BB%B6/%E6%9E%81%E6%90%9Cpicture.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/SOSO%E5%9B%BE%E7%89%87.png) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/Jiso.jpg) | ![Image text](https://github.com/XHooki/Telegram-/blob/main/%E6%96%87%E4%BB%B6/aiso.jpg) |
 | :---: | :---:| :---: | :---: |
